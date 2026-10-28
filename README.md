@@ -1,5 +1,7 @@
 # Baixar transcrição do YouTube
 
+**Versão 1**
+
 1. Abra o vídeo no YouTube pelo Chrome ou Edge no computador.
 2. Deixe o vídeo aberto; o script tentará expandir a descrição e abrir **Mostrar transcrição** sozinho.
 3. Pressione **Ctrl+Shift+J** e abra a aba **Console**.
