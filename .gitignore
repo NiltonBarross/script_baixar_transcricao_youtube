@@ -2,4 +2,5 @@
 .codex/
 .specify/*
 !.specify/memory/
+.specify/memory/.constitution-template.json
 *.txt
